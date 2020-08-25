@@ -1,9 +1,9 @@
-# REPORTE DEL mar25ago202012:01:39CST
+# REPORTE DEL mar25ago202012:03:27CST
 ### RANGO DEL 0-10
 - **Cantidad de memoria total:** 13MB 
 | PID | Proceso         | Memoria |
 |-----|-----------------|---------|
-| 1 |  systemd |  13  MB |
+| 1   |  systemd        |  13  MB |
 ### RANGO DEL 320-330
 - **Cantidad de memoria total:** 51MB 
 | PID | Proceso         | Memoria |
@@ -139,11 +139,11 @@
 |  1718 |  goa-identity-se |  9  MB |
 | 1711 |  goa-daemon |  35  MB |
 ### RANGO DEL 1720-1730
-- **Cantidad de memoria total:** 102MB 
+- **Cantidad de memoria total:** 106MB 
 | PID | Proceso         | Memoria |
 |-----|-----------------|---------|
 | 1722 |  gdm-x-session |  6  MB |
-|  1727 |  Xorg |  96  MB |
+|  1727 |  Xorg |  100  MB |
 ### RANGO DEL 1750-1760
 - **Cantidad de memoria total:** 14MB 
 | PID | Proceso         | Memoria |
@@ -283,11 +283,11 @@
 |-----|-----------------|---------|
 | 2279 |  evolution-addre |  30  MB |
 ### RANGO DEL 2450-2460
-- **Cantidad de memoria total:** 519MB 
+- **Cantidad de memoria total:** 532MB 
 | PID | Proceso         | Memoria |
 |-----|-----------------|---------|
-|  2457 |  code |  131  MB |
-| 2451 |  MainThread |  388  MB |
+|  2457 |  code |  129  MB |
+| 2451 |  MainThread |  403  MB |
 ### RANGO DEL 2490-2500
 - **Cantidad de memoria total:** 37MB 
 | PID | Proceso         | Memoria |
@@ -304,10 +304,10 @@
 |-----|-----------------|---------|
 | 2590 |  gvfsd-metadata |  6  MB |
 ### RANGO DEL 2610-2620
-- **Cantidad de memoria total:** 116MB 
+- **Cantidad de memoria total:** 114MB 
 | PID | Proceso         | Memoria |
 |-----|-----------------|---------|
-| 2619 |  code |  116  MB |
+| 2619 |  code |  114  MB |
 ### RANGO DEL 2630-2640
 - **Cantidad de memoria total:** 32MB 
 | PID | Proceso         | Memoria |
@@ -324,20 +324,20 @@
 |-----|-----------------|---------|
 | 2686 |  code |  250  MB |
 ### RANGO DEL 2720-2730
-- **Cantidad de memoria total:** 117MB 
+- **Cantidad de memoria total:** 118MB 
 | PID | Proceso         | Memoria |
 |-----|-----------------|---------|
-| 2729 |  code |  117  MB |
+| 2729 |  code |  118  MB |
 ### RANGO DEL 2790-2800
 - **Cantidad de memoria total:** 145MB 
 | PID | Proceso         | Memoria |
 |-----|-----------------|---------|
 | 2791 |  PrivilegedCont |  145  MB |
 ### RANGO DEL 2820-2830
-- **Cantidad de memoria total:** 218MB 
+- **Cantidad de memoria total:** 204MB 
 | PID | Proceso         | Memoria |
 |-----|-----------------|---------|
-| 2828 |  WebContent |  218  MB |
+| 2828 |  WebContent |  204  MB |
 ### RANGO DEL 3300-3310
 - **Cantidad de memoria total:** 113MB 
 | PID | Proceso         | Memoria |
@@ -354,15 +354,15 @@
 |-----|-----------------|---------|
 | 3531 |  code |  69  MB |
 ### RANGO DEL 3600-3610
-- **Cantidad de memoria total:** 391MB 
+- **Cantidad de memoria total:** 381MB 
 | PID | Proceso         | Memoria |
 |-----|-----------------|---------|
-| 3600 |  WebContent |  391  MB |
+| 3600 |  WebContent |  381  MB |
 ### RANGO DEL 3640-3650
-- **Cantidad de memoria total:** 166MB 
+- **Cantidad de memoria total:** 163MB 
 | PID | Proceso         | Memoria |
 |-----|-----------------|---------|
-| 3648 |  WebContent |  166  MB |
+| 3648 |  WebContent |  163  MB |
 ### RANGO DEL 4260-4270
 - **Cantidad de memoria total:** 53MB 
 | PID | Proceso         | Memoria |
@@ -384,15 +384,15 @@
 |-----|-----------------|---------|
 | 4825 |  gedit |  67  MB |
 ### RANGO DEL 4900-4910
-- **Cantidad de memoria total:** 265MB 
+- **Cantidad de memoria total:** 252MB 
 | PID | Proceso         | Memoria |
 |-----|-----------------|---------|
-| 4900 |  WebContent |  265  MB |
+| 4900 |  WebContent |  252  MB |
 ### RANGO DEL 18520-18530
-- **Cantidad de memoria total:** 195MB 
+- **Cantidad de memoria total:** 199MB 
 | PID | Proceso         | Memoria |
 |-----|-----------------|---------|
-| 18525 |  WebContent |  195  MB |
+| 18525 |  WebContent |  199  MB |
 ### RANGO DEL 18760-18770
 - **Cantidad de memoria total:** 8MB 
 | PID | Proceso         | Memoria |
@@ -418,20 +418,10 @@
 | PID | Proceso         | Memoria |
 |-----|-----------------|---------|
 | 18918 |  WebContent |  84  MB |
-### RANGO DEL 26830-26840
-- **Cantidad de memoria total:** 27MB 
-| PID | Proceso         | Memoria |
-|-----|-----------------|---------|
-| 26836 |  tracker-store |  27  MB |
-### RANGO DEL 26860-26870
-- **Cantidad de memoria total:** 36MB 
-| PID | Proceso         | Memoria |
-|-----|-----------------|---------|
-| 26868 |  tracker-extract |  36  MB |
-### RANGO DEL 26880-26890
+### RANGO DEL 29520-29530
 - **Cantidad de memoria total:** 6MB 
 | PID | Proceso         | Memoria |
 |-----|-----------------|---------|
-|  26888 |  ps |  3  MB |
-| 26887 |  bash |  3  MB |
+|  29529 |  ps |  3  MB |
+| 29528 |  bash |  3  MB |
 
